@@ -1,7 +1,10 @@
 # vue-music
 
 > 音乐播放器
+
+# 预览图片
 ![image](https://github.com/ZHOUYUANN/vuemusic/raw/master/src/common/image/1.png)
+
 ## Build Setup
 
 ``` bash
