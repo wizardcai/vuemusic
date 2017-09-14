@@ -1,7 +1,7 @@
 import Storage from 'good-storage'
 
 const SEARCH_KEY = '__search__'
-const SEACH_MAX_LENGTH = 15
+const SEACH_MAX_LENGTH = 10
 
 const PLAY_KEY = '__play__'
 const PLAY_MAX_LENGTH = 200
